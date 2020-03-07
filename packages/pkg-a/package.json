@@ -5,9 +5,12 @@
   "license": "MIT",
   "dependencies": {
     "@resolve-demo/pkg-b": "1.0.0",
-    "sanctuary": "^3.0.0"
+    "sanctuary": "^3.0.0",
+    "ramda": "^0.27.0",
+    "immer": "^6.0.1"
   },
   "devDependencies": {
-    "@types/sanctuary": "^0.14.2"
+    "@types/sanctuary": "^0.14.2",
+    "@types/ramda": "^0.26.43"
   }
 }
