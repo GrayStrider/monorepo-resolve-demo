@@ -1,0 +1,13 @@
+{
+  "name": "@resolve-demo/pkg-a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@resolve-demo/pkg-b": "1.0.0",
+    "sanctuary": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/sanctuary": "^0.14.2"
+  }
+}
